@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simplemaths</string>
+    <string name="hint">Enter math expression</string>
+    <string name="btnCalctext">Calc</string>
+    <string name="btnCleartext">Clear</string>
+</resources>
